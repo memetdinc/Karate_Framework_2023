@@ -10,3 +10,8 @@ Feature:
   Scenario: dev env
 
     * print "dev"
+
+  @ignore
+  Scenario: dev env
+
+    * print "dev"
