@@ -1,4 +1,4 @@
-package examples;
+package features;
 
 import com.intuit.karate.KarateOptions;
 import com.intuit.karate.Results;
@@ -14,7 +14,7 @@ import org.apache.commons.io.FileUtils;
 
 @KarateOptions(tags = "@ignore" )
 
-class ExamplesTest {
+class FeaturesTest {
 
     @Test
     void testParallel() {
